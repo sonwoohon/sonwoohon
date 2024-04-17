@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--타이틀 부분-->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Everyone%welcome&fontSize=90" />
 <!--내용 부분-->
 <h3 align="center">✨ 기술 ✨</h3>
 <div align="center">
