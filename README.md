@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <h3 align="center">📚 공부중 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/nextjs.svg?style=for-the-badge&logo=react&logoColor=000000" />&nbsp
+  <img alt="GitHub Discussions" src="https://img.shields.io/github/discussions/:user/:next.js">&nbsp
 <img src="https://camo.githubusercontent.com/8c910dd9dfb2c6d0c8153ab79fd96b00c2942a9b56b3e95ce06e14f7132979b8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3331373843363f7374796c653d666f722d7468652d6261646765266c6f676f3d54797065536372697074266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=TypeScript&amp;logoColor=white" style="max-width: 100%;">
   <img src="https://camo.githubusercontent.com/cc0b54d92d3a06a62d981876da0192ed365e180d0fb6dfa3933172e1aa75d159/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3333393933333f7374796c653d666f722d7468652d6261646765266c6f676f3d4e6f64652e6a73266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=Node.js&amp;logoColor=white" style="max-width: 100%;">
 </div>
