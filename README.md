@@ -28,7 +28,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
 </div>
 
-<img src="https://camo.githubusercontent.com/8ecbdf76e6584e768bbea5f7264d2f62dafd8a32baeafe74eae504b6f441f830/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426637573746f6d436f6c6f724c6973743d3330266865696768743d3230302673656374696f6e3d666f6f74657226746578743d4279652126666f6e7453697a653d353526666f6e74436f6c6f723d66666666666626666f6e74416c69676e593d3635" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=30&amp;height=200&amp;section=footer&amp;text=Bye!&amp;fontSize=55&amp;fontColor=ffffff&amp;fontAlignY=65" style="max-width: 100%;">
 <br>
 
 <h3 align="center">📚 공부중 📚</h3>
