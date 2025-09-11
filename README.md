@@ -6,8 +6,7 @@
 📞 010-2929-9461  
 📧 b29299461@gmail.com  
 깃허브: [github.com/your-id](https://github.com/sonwoohon)  
-기술 블로그: [your-blog.com](https://thsdngjs.tistory.com/)  
-포트폴리오: [your-portfolio.com](https://your-portfolio.com)
+이력서:  [github.com/your-id](https://balanced-almanac-c97.notion.site/2681b4b8a4fd803587f4f842ea65c6e5?pvs=74)  
 
 <br>
 
