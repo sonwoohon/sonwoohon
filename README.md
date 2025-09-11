@@ -5,8 +5,7 @@
 
 📞 010-2929-9461  
 📧 b29299461@gmail.com  
-깃허브: [github.com/your-id](https://github.com/sonwoohon)  
-이력서:  [이력서 바로가기](https://balanced-almanac-c97.notion.site/2681b4b8a4fd803587f4f842ea65c6e5?pvs=74)  
+[이력서 바로가기](https://balanced-almanac-c97.notion.site/2681b4b8a4fd803587f4f842ea65c6e5?pvs=74)  
 
 <br>
 
